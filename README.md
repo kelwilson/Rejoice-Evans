@@ -8,7 +8,7 @@ Hi, I'm [Rejoice Evans](https://github.com/rmjspecial), a passionate  full stack
 I'm a student of Microverse,  i love how collaboration and knowledge sharing happened  and learning new skills. HAPPY CODING 
 
 
-![I am Full Stack software developer ](https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif)
+![I am Full Stack software developer ](https://www.careerguide.com/career/new-age-career-options/top-7-scope-in-the-field-of-coding/attachment/coding_gif)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rmjspecial?tab=repositories](https://github.com/rmjspecial?tab=repositories)
 
